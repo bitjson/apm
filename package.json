@@ -1,0 +1,19 @@
+{
+  "name": "apm",
+  "version": "0.0.0",
+  "description": "actions per minute for all the things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasondreyzehner/apm.git"
+  },
+  "author": "Satoshi Nakamoto <satoshi@bitpay.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasondreyzehner/apm/issues"
+  },
+  "homepage": "https://github.com/jasondreyzehner/apm"
+}
